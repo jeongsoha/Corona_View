@@ -42,15 +42,15 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 버튼을 클릭하면 출력되지 않은 모든 지역이 출력되고 숨기기 버튼으로 변경 됨
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git1.png?raw=true" style="zoom:50%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git1.png?raw=true"  width="500" height="550" /></left>
 
 
 
 - **Corona19 API**
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git4.png?raw=true" style="zoom:50%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git4.png?raw=true" width="500" height="700" /></left>
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git8.png?raw=true" style="zoom:50%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git8.png?raw=true" width="500" height="150" /></left>
 
 
 
