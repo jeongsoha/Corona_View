@@ -24,7 +24,7 @@ GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done을 각각
 
 
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/github.png?raw=true" style="zoom:20%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/github.png?raw=true" width="500" height="300" /></left>
 
 
 
