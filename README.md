@@ -96,7 +96,8 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 ## 확진자 상세 정보
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="900" height="150" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="700" height="150" /></left>
+
 
 
 
@@ -106,6 +107,7 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 ## 입국제한조치 현황
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" width="500" height="300" /></left>
+
 
 
 
