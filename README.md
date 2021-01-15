@@ -6,6 +6,7 @@
 - 개발인원 : Backend 2명
 
 <br/>
+
 # Development Environment
 
 
@@ -39,7 +40,9 @@
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" width="450" height="450" /></left>
 
 - NAVER News API 사용
+
 - 데이터를 JSON 형식으로 호출해 Parsing 후 출력할 데이터를 Naver News 클래스에 반환
+
 - "코로나 확진"에 관련된 최신 뉴스 6개를 출력
 
 <br/>
