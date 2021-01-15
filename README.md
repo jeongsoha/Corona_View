@@ -1,18 +1,17 @@
-# corona_view
+# CoronaView
 
-- 오픈 API를 활용한 '실시간 코로나 19 국내 현황' 웹 사이트
+- 사용자에게 코로나 관련 편의를 제공하고 다양한 Open API를 사용해 보기 위해 제작
 
 - 2020.07.08 - 2020.07.24 (약 2주)
-- 개발인원 : 2명
+- 개발인원 : Backend 2명
 
 
 
 ## Development Environment
 
 
-- **Web Application Server** - Tomcat 9.0
-- **Language** - JAVA, JSP, JavaScript, Jquery, HTML, CSS
-- **Tool** - Spring Tool Suite4, GitHub
+- Spring 4.0, Apache Tomcat 9.0, Tiles3, BootStrap
+- Java, Jquery, GitHub, MVC Pattern
 - **Open API** - Corona19-API, Youtube Data API, Naver News API, Kakao Map API
 
 
@@ -28,7 +27,7 @@ GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done을 각각
 
 
 
-## Web
+## View
 
 - **숫자 자동증가 애니메이션**
 
