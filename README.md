@@ -63,18 +63,24 @@
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="770" height="150" /></left>
 
+- 각 지역의 상세정보 사이트
+
 <br/>
 
-## 입국제한조치 현황
+## 입국제한 조치 현황
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" width="600" height="360" /></left>
+
+- Bootstrap을 이용한 입국제한 조치 List
 
 <br/>
 
 ## GITHUB project
 
 
-GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done를 통한 일정관리
+- GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done를 통한 일정관리
+
+<br/>
 
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/github.png?raw=true" width="500" height="300" /></left>
