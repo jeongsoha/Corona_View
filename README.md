@@ -16,18 +16,10 @@
 
 
 
-## GITHUB project
-
-
-GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done을 각각 작성하여 체계적인 일정관리를 함
-
-
-
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/github.png?raw=true" width="500" height="300" /></left>
-
-
-
 ## View
+
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/CoronaView-gif.gif?raw=true"  width="500" height="260" /></left>
+
 
 - **숫자 자동증가 애니메이션**
 
@@ -102,4 +94,15 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 - 입국제한조치 현황
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" style="zoom:50%;" /></left>
+
+
+## GITHUB project
+
+
+GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done을 각각 작성하여 체계적인 일정관리를 함
+
+
+
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/github.png?raw=true" width="500" height="300" /></left>
+
 
