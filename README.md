@@ -33,9 +33,9 @@
 
 
 
-#main
+# main
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git1.png?raw=true"  width="400" height="500" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git1.png?raw=true"  width="400" height="400" /></left>
 
 - **숫자 자동증가 애니메이션**
 
@@ -56,8 +56,7 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 ## News
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" width="400" height="400" /></left>
-
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" width="450" height="450" /></left>
 
 - **네이버 뉴스 api**
   - 네이버 뉴스 API를 사용하여 Json 형식의 데이터로 받아옴
@@ -77,8 +76,7 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 ## Youtube
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git3.png?raw=true" width="400" height="400" /></left>
-
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git3.png?raw=true" width="450" height="450" /></left>
 
 - **유튜브 api**
   - 구글 유튜브 API를 사용하여 Json 형식의 데이터로 받아옴
@@ -98,7 +96,7 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 ## 확진자 상세 정보
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="400" height="66" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="900" height="150" /></left>
 
 
 
@@ -107,7 +105,7 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 ## 입국제한조치 현황
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" width="400" height="250" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" width="500" height="300" /></left>
 
 
 
