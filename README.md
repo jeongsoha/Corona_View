@@ -7,7 +7,9 @@
 
 
 
-## Development Environment
+
+
+# Development Environment
 
 
 - Spring 4.0, Apache Tomcat 9.0, Tiles3, BootStrap
@@ -16,9 +18,14 @@
 
 
 
-## View
+
+
+# View
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/CoronaView-gif.gif?raw=true"  width="800" height="400" /></left>
+
+
+
 
 
 - **숫자 자동증가 애니메이션**
@@ -45,12 +52,6 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 
 
-- **Kakao Map API**
-
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git5.png?raw=true" style="zoom:60%;" /></left>
-
-
-
 - **네이버 뉴스 api**
   - 네이버 뉴스 API를 사용하여 Json 형식의 데이터로 받아옴
   - 키워드에 맞는 뉴스를 6개 가졍로 수 있게 설정
@@ -63,6 +64,8 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
   - SimpleDateFormat을 이용해 "yyyy년 MM월 dd일" 형식으로 출력
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" style="zoom:50%;" /></left>
+
+
 
 - **유튜브 api**
   - 구글 유튜브 API를 사용하여 Json 형식의 데이터로 받아옴
@@ -79,15 +82,10 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 
 
-- 코로나19 예방 행동 수칙
-
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git6.png?raw=true" style="zoom:50%;" /></left>
-
-
-
 - 확진자 상세 정보
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" style="zoom:50%;" /></left>
+
 
 
 
@@ -96,10 +94,12 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" style="zoom:50%;" /></left>
 
 
+
+
 ## GITHUB project
 
 
-GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done을 각각 작성하여 체계적인 일정관리를 함
+GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done를 통한 일정관리
 
 
 
