@@ -51,6 +51,12 @@
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git3.png?raw=true" width="450" height="450" /></left>
 
+- Youtube Data API 사용
+
+- 데이터를 JSON 형식으로 호출해 Parsing 후 출력할 데이터를 Youtube 클래스에 반환
+
+- "코로나"에 관련된 최신 영상 6개를 출력
+
 <br/>
 
 ## 확진자 상세 정보
