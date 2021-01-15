@@ -18,7 +18,7 @@
 
 ## View
 
-<left><gif src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/CoronaView-gif.gif?raw=true"  width="500" height="260" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/CoronaView-gif.gif?raw=true"  width="500" height="260" /></left>
 
 
 - **숫자 자동증가 애니메이션**
