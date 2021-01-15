@@ -1,7 +1,9 @@
 # CoronaView
 
 - 사용자에게 코로나 관련 편의를 제공하고 다양한 Open API를 사용해 보기 위해 제작
+
 - 2020.07.08 - 2020.07.24 (약 2주)
+
 - 개발인원 : Backend 2명
 
 <br/>
@@ -10,7 +12,9 @@
 
 
 - Spring 4.0, Apache Tomcat 9.0, Tiles3, BootStrap
+
 - Java, Jquery, GitHub, MVC Pattern
+
 - **Open API** - Corona19-API, Youtube Data API, Naver News API, Kakao Map API
 
 <br/>
