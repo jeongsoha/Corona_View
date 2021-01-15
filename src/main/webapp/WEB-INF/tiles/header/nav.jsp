@@ -32,30 +32,28 @@
 
 	<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
 		<div id="nav" class="container-fluid">
+		
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed"
-					data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-					<span class="sr-only">Toggle navigation</span> <span
-						class="icon-bar"></span> <span class="icon-bar"></span> <spanb
-						class="icon-bar"></span>
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span> <span class="icon-bar"></span>
+					<span class="icon-bar"></span>
 				</button>
+				
 				<a href="/Corona_View/main"><img
 					style="width: 270px; height: 55px; margin-left: 10px;"
 					src="<c:url value="/resources/images/logo.JPG"/>" /></a>
-
 			</div>
 
-
-			<div class="collapse navbar-collapse"
-				id="bs-example-navbar-collapse-1">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a class="page-scroll" href="#section1">국내 현황</a></li>
 					<li><a class="page-scroll" href="#section2">입국 제한</a></li>
 					<li><a class="page-scroll" href="#section3">예방 수칙</a></li>
 					<li><a class="page-scroll" href="#section4">뉴스</a></li>
-
 				</ul>
 			</div>
+			
 		</div>
 	</nav>
 

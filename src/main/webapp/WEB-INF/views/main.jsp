@@ -121,7 +121,7 @@
    <br><br><br>
    <div class="border"></div>
    
-<section id=section1>
+<section id="section1">
      <br><br>                                             
      <!-- 국내 코로나 현황 리스트 -->
      <div class="container">
