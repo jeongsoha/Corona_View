@@ -10,13 +10,13 @@
 
 # Development Environment
 
-**Web Application Server** - Apache Tomcat 9.0
+- **Web Application Server** - Apache Tomcat 9.0
 
-**Language** - Java, JSP, Jquery
+- **Language** - Java, JSP, Jquery
 
-**Tool** - Spring Tool Suite4, GitHub
+- **Tool** - Spring Tool Suite4, GitHub
 
-**Open API** - Corona19-API, Youtube Data API, Naver News API, Kakao Map API
+- **Open API** - Corona19-API, Youtube Data API, Naver News API, Kakao Map API
 
 <br/>
 
