@@ -9,12 +9,16 @@
 
 
 
+
+
 # Development Environment
 
 
 - Spring 4.0, Apache Tomcat 9.0, Tiles3, BootStrap
 - Java, Jquery, GitHub, MVC Pattern
 - **Open API** - Corona19-API, Youtube Data API, Naver News API, Kakao Map API
+
+
 
 
 
@@ -28,6 +32,11 @@
 
 
 
+
+#main
+
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git1.png?raw=true"  width="400" height="500" /></left>
+
 - **숫자 자동증가 애니메이션**
 
 jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가 0부터 각 수치대로 자동증가 됨
@@ -40,12 +49,14 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 버튼을 클릭하면 출력되지 않은 모든 지역이 출력되고 숨기기 버튼으로 변경 됨
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git1.png?raw=true"  width="500" height="550" /></left>
+
+
+
 
 
 ## News
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" style="zoom:50%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" width="400" height="400" /></left>
 
 
 - **네이버 뉴스 api**
@@ -60,9 +71,13 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
   - SimpleDateFormat을 이용해 "yyyy년 MM월 dd일" 형식으로 출력
 
 
+
+
+
+
 ## Youtube
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git3.png?raw=true" style="zoom:50%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git3.png?raw=true" width="400" height="400" /></left>
 
 
 - **유튜브 api**
@@ -78,15 +93,24 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 
 
+
+
+
 ## 확진자 상세 정보
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" style="zoom:50%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="400" height="66" /></left>
+
+
+
 
 
 
 ## 입국제한조치 현황
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" style="zoom:50%;" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" width="400" height="250" /></left>
+
+
+
 
 
 
@@ -95,7 +119,6 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 
 GITHUB project 일정 관리 시스템을 이용해 To do, Doing, Done를 통한 일정관리
-
 
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/github.png?raw=true" width="500" height="300" /></left>
