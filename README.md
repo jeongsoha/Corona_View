@@ -5,11 +5,7 @@
 - 2020.07.08 - 2020.07.24 (약 2주)
 - 개발인원 : Backend 2명
 
-
-
-
-
-
+<br/><br/>
 
 # Development Environment
 
@@ -18,11 +14,7 @@
 - Java, Jquery, GitHub, MVC Pattern
 - **Open API** - Corona19-API, Youtube Data API, Naver News API, Kakao Map API
 
-
-
-
-
-
+<br/><br/>
 
 # View
 
@@ -57,7 +49,6 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 ## News
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" width="450" height="450" /></left>
-
 - **네이버 뉴스 api**
   - 네이버 뉴스 API를 사용하여 Json 형식의 데이터로 받아옴
   - 키워드에 맞는 뉴스를 6개 가졍로 수 있게 설정
@@ -96,7 +87,7 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 
 ## 확진자 상세 정보
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="700" height="150" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" width="770" height="150" /></left>
 
 
 
