@@ -21,7 +21,7 @@
 
 # View
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/CoronaView-gif.gif?raw=true"  width="800" height="400" /></left>
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/CoronaView-gif.gif?raw=true"  width="700" height="400" /></left>
 
 <br/>
 
