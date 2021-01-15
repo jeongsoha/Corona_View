@@ -43,13 +43,9 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git1.png?raw=true"  width="500" height="550" /></left>
 
 
+## News
 
-- **Corona19 API**
-
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git4.png?raw=true" width="500" height="700" /></left>
-
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git8.png?raw=true" width="500" height="150" /></left>
-
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" style="zoom:50%;" /></left>
 
 
 - **네이버 뉴스 api**
@@ -63,8 +59,10 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
   - forEach 반복문을 사용하여 코로나19 NEWS 데이터를 출력
   - SimpleDateFormat을 이용해 "yyyy년 MM월 dd일" 형식으로 출력
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git2.png?raw=true" style="zoom:50%;" /></left>
 
+## Youtube
+
+<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git3.png?raw=true" style="zoom:50%;" /></left>
 
 
 - **유튜브 api**
@@ -78,18 +76,15 @@ jQuery의 함수를 작성하여 웹 페이지가 처음 로드될 때 숫자가
   - forEach 반복문을 사용하여 코로나19 YouTube 데이터를 출력
   - SimpleDateFormat을 이용해 "O시간 전" 형식으로 출력
 
-<left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git3.png?raw=true" style="zoom:50%;" /></left>
 
 
-
-- 확진자 상세 정보
+## 확진자 상세 정보
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git9.JPG?raw=true" style="zoom:50%;" /></left>
 
 
 
-
-- 입국제한조치 현황
+## 입국제한조치 현황
 
 <left><img src="https://github.com/jeongsoha/Corona_View/blob/master/src/main/webapp/resources/images/git7.JPG?raw=true" style="zoom:50%;" /></left>
 
